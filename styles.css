@@ -1,6 +1,15 @@
-p { color: #0000ff; }
-h1 { color: white; }
-h2 { color: white; }
+p { 
+  font-family: Arial, Helvetica, sans-serif;
+  color: #eeeeee; 
+}
+h1 { 
+  font-family: Arial, Helvetica, sans-serif;
+  color: white; 
+}
+h2 { 
+  font-family: Arial, Helvetica, sans-serif;
+  color: white; 
+}
 td {
   vertical-align: top;
 }
