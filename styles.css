@@ -1,6 +1,7 @@
 p { 
   font-family: Helvetica, Arial, sans-serif;
-  color: #d0d0ee;
+  color: #eeeed0; /* Light Yellow */
+  /* color: #d0d0ee; */ /* Light Purple */
 }
 h1 { 
   font-family: Helvetica, Arial, sans-serif;
@@ -14,6 +15,7 @@ td {
   vertical-align: top;
 }
 body {
-  background-color: #180c24;
-  /* background-color: #301848; */
+  background-color: #0c1824; /* Deep Green */
+  /* background-color: #180c24; */ /* Deep Purple */
+  /* background-color: #301848; */ /* Purple */
 }
