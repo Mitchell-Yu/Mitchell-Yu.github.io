@@ -7,7 +7,7 @@ p {
 h1 { 
   font-family: Helvetica, Arial, sans-serif;
   color: #c0b04a; /* Tarnished Brass */
-  color: #ddcc60; /* Brass */
+  /* color: #ddcc60; */ /* Brass */
   /* color: #eedda0; */ /* Yellow */
 }
 h2 { 
