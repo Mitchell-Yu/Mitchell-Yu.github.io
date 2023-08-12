@@ -1,15 +1,17 @@
 p { 
   font-family: Helvetica, Arial, sans-serif;
-  color: #eeeed0; /* Light Yellow */
+  color: #eedda0; /* Yellow */
+  /* color: #eeeed0; */ /* Light Yellow */
   /* color: #d0d0ee; */ /* Light Purple */
 }
 h1 { 
   font-family: Helvetica, Arial, sans-serif;
-  color: #eedda0; /* Yellow */
+  color: #ddcc60; /* Brass */
+  /* color: #eedda0; */ /* Yellow */
 }
 h2 { 
   font-family: Helvetica, Arial, sans-serif;
-  color: #eedda0; /* Yellow */
+  /* color: #eedda0; */ /* Yellow */
 }
 td {
   vertical-align: top;
