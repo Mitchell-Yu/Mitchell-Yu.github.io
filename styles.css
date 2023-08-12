@@ -1,4 +1,9 @@
-p { color: red; }
+p { color: white; }
+h1 { color: white; }
+h2 { color: white; }
 td {
   vertical-align: top;
+}
+body {
+  background-color: black;
 }
